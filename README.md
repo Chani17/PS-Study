@@ -1,3 +1,3 @@
 # PS-Study
 Problem Solving Study
-BAEKJOON
+by BAEKJOON
